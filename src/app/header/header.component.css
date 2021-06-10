@@ -5,30 +5,28 @@
 .bg-primary {
   background: #3366ff;
 }
-.logo {
-  width: 50px;
+#logo {
+  width: 40px;
+  padding: 3px;
+  /* height: 70px; */
 }
-.share {
+.icon{
+  width: 20px;
+  height: 20px;
+}
+.icon-1{
+  width: 25px;
+  height: 25px;
+}
+p{
+  color: #ffffff;
+  font-weight: 500;
+  font-size: medium;
+}
+#share {
   width: 20px;
 }
-
-.box1 {
-  height: 50px;
-  width: 50px;
-  background: darkturquoise;
-  color: black;
-  text-align: end;
-  /* margin-top: 3px; */
-  /* margin-bottom: 3px; */
-}
-
-.box2 {
-  height: 50px;
-  width: 50px;
-
-  background: fuchsia;
-  color: black;
-  text-align: end;
-  /* margin-top: 3px; */
-  /* margin-bottom: 3px; */
+.user{
+  width: 40px;
+  height: 45px;
 }
