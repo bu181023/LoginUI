@@ -1,0 +1,34 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.bg-primary {
+  background: #3366ff;
+}
+.logo {
+  width: 50px;
+}
+.share {
+  width: 20px;
+}
+
+.box1 {
+  height: 50px;
+  width: 50px;
+  background: darkturquoise;
+  color: black;
+  text-align: end;
+  /* margin-top: 3px; */
+  /* margin-bottom: 3px; */
+}
+
+.box2 {
+  height: 50px;
+  width: 50px;
+
+  background: fuchsia;
+  color: black;
+  text-align: end;
+  /* margin-top: 3px; */
+  /* margin-bottom: 3px; */
+}
